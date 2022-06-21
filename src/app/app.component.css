@@ -1,0 +1,22 @@
+.item{
+    width: 400px;
+    background: rgb(255, 255, 255);
+    border-radius:4px;    box-shadow:0px 5px 10px #ccc;
+    margin:10px;
+    padding:5px;
+    display:flex;
+    flex-direction: row;
+}
+.title{
+    text-align: center;
+    color:rgb(4, 50, 102);
+    font-weight: bold;
+    /* display:inline-block; */
+}
+.check{
+
+    border:none;
+    margin-left: 10px;
+    background: rgb(151, 255, 125);
+    color: rgb(74, 136, 58);
+}
