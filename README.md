@@ -1,4 +1,4 @@
-# Todi-List-Angular--Basic
+# Todo-List-Angular--Basic
 
 Task list project using basics
 
